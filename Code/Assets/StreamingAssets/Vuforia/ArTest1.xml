@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chkllogo" size="5.000000 6.663300" />
+    <ImageTarget name="SouthamptonBoard" size="1.000000 1.505248" />
+    <ImageTarget name="image18" size="5.000000 3.610401" />
+    <ImageTarget name="Picture1" size="5.000000 2.812500" />
+    <ImageTarget name="stones" size="0.200000 0.140000" />
+    <ImageTarget name="wood" size="0.200000 0.112375" />
+  </Tracking>
+</QCARConfig>

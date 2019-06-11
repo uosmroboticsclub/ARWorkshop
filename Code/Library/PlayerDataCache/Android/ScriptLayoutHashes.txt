@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/User/Desktop/ARWorkshop/Code/ugandanknuckles.apk
+C:/Users/User/Desktop/Programming/C#/Augmented Reality/ARWorkshop/Code/arvideouni.apk
 SceneListBegin?
 Assets/Scenes/ugandanknuckles.unity
 SceneListEnd?

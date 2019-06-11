@@ -6,7 +6,6 @@ using Vuforia;
 
 public class ImageTargetPlayVideo : MonoBehaviour, ITrackableEventHandler
 {
-
     private TrackableBehaviour mTrackableBehaviour;
     public VideoPlayer videoTarget;
     public VideoClip clipTarget;
